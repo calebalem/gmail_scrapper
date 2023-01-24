@@ -1,0 +1,11 @@
+build
+code
+dist
+env
+failed_uploads
+converted_files
+excel
+credentials.json
+error.log
+this_file_is_to_authenticate_onedrive_for_test.txt
+token.json
